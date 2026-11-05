@@ -1,0 +1,8 @@
+{
+  "block.refinedstorage.machine_casing": "Telaio per archiviazione",
+  "item.refinedstorage.raw_basic_processor": "Processore base incompleto",
+  "item.refinedstorage.raw_improved_processor": "Processore migliorato incompleto",
+  "item.refinedstorage.raw_advanced_processor": "Processore avanzato incompleto",
+  "item.refinedstorage.processor_binding": "Legante per processori",
+  "item.refinedstorage.wrench": "Chiave inglese per archiviazione"
+}

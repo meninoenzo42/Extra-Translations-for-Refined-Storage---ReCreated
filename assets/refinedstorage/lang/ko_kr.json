@@ -1,0 +1,8 @@
+{
+  "block.refinedstorage.machine_casing": "저장소 케이싱",
+  "item.refinedstorage.raw_basic_processor": "미완성된 기본 프로세서",
+  "item.refinedstorage.raw_improved_processor": "미완성된 향상된 프로세서",
+  "item.refinedstorage.raw_advanced_processor": "미완성된 고급 프로세서",
+  "item.refinedstorage.processor_binding": "프로세서 바인더",
+  "item.refinedstorage.wrench": "저장소 렌치"
+}

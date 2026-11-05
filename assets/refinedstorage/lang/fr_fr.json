@@ -1,0 +1,8 @@
+{
+  "block.refinedstorage.machine_casing": "Bâti de stockage",
+  "item.refinedstorage.raw_basic_processor": "Processeur de base incomplet",
+  "item.refinedstorage.raw_improved_processor": "Processeur amélioré incomplet",
+  "item.refinedstorage.raw_advanced_processor": "Processeur avancé incomplet",
+  "item.refinedstorage.processor_binding": "Liant pour processeur",
+  "item.refinedstorage.wrench": "Clé de stockage"
+}

@@ -1,0 +1,8 @@
+{
+  "block.refinedstorage.machine_casing": "Корпус сховища",
+  "item.refinedstorage.raw_basic_processor": "Незавершений базовий процесор",
+  "item.refinedstorage.raw_improved_processor": "Незавершений покращений процесор",
+  "item.refinedstorage.raw_advanced_processor": "Незавершений просунутий процесор",
+  "item.refinedstorage.processor_binding": "Процесорний клей",
+  "item.refinedstorage.wrench": "Гайковий ключ сховища"
+}

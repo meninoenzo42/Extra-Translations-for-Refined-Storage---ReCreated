@@ -1,0 +1,8 @@
+{
+  "block.refinedstorage.machine_casing": "ストレージケーシング",
+  "item.refinedstorage.raw_basic_processor": "未完成の基本プロセッサー",
+  "item.refinedstorage.raw_improved_processor": "未完成の発展プロセッサー",
+  "item.refinedstorage.raw_advanced_processor": "未完成の高度プロセッサー",
+  "item.refinedstorage.processor_binding": "プロセッサーのバインダー",
+  "item.refinedstorage.wrench": "ストレージレンチ"
+}

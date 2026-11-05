@@ -1,0 +1,8 @@
+{
+  "block.refinedstorage.machine_casing": "Speichergehäuse",
+  "item.refinedstorage.raw_basic_processor": "Unvollständiger Basisprozessor",
+  "item.refinedstorage.raw_improved_processor": "Unvollständiger verbesserter Prozessor",
+  "item.refinedstorage.raw_advanced_processor": "Unvollständiger fortgeschrittener Prozessor",
+  "item.refinedstorage.processor_binding": "Prozessorkleber",
+  "item.refinedstorage.wrench": "Speicherschraubenschlüssel"
+}

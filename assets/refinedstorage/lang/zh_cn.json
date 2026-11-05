@@ -1,0 +1,8 @@
+{
+  "block.refinedstorage.machine_casing": "存储机壳",
+  "item.refinedstorage.raw_basic_processor": "未完成的基础处理器",
+  "item.refinedstorage.raw_improved_processor": "未完成的改进处理器",
+  "item.refinedstorage.raw_advanced_processor": "未完成的高级处理器",
+  "item.refinedstorage.processor_binding": "处理器粘合剂",
+  "item.refinedstorage.wrench": "存储扳手"
+}
